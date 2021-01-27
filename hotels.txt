@@ -1,0 +1,4 @@
+Room_Number      Type     Price  Reserved   
+101              Single   100    Yes        
+102              Double   200    No        
+103              Single   125    No
